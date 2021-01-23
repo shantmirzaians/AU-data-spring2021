@@ -21,14 +21,14 @@ Critique of [The AirBnB Impact](https://www.sfchronicle.com/airbnb-impact-san-fr
 Gig-workers vs Employees
 1. What is the job rate of new gig-workers versus newly hired employees? How do their wages compare?
 2. Collect data on new workers/wages from:
-  * Gig-economy businesses (Uber, Lyft, Instacart, etc.)
-  * Local/state/federal labor departments
-  * Labor research groups
+    * Gig-economy businesses (Uber, Lyft, Instacart, etc.)
+    * Local/state/federal labor departments
+    * Labor research groups
 3. California passed Prop 22 in November and already changes are being made by gig-economy businesses and other traditional employers. The pandemic may also be a reason for employment layoffs and increase in gig-work.
 4. Potenial sources:
-  * Gig-economy businesses
-  * Organized labor groups
-  * Labor research experts
-  * Individual workers
+    * Gig-economy businesses
+    * Organized labor groups
+    * Labor research experts
+    * Individual workers
 5. Anything else important to know?
   * [Lyft recently announced a new feature called "priority mode," while drivers call it "poverty mode." It offers drivers more rides in exchange for a 10% pay cut. One driver explained without priority mode on, she doesn't get any rides, the pay cut seems mandatory.](https://www.cnet.com/news/lyft-test-program-offers-drivers-more-rides-in-exchange-for-10-percent-pay-cut/?utm_source=reddit.com&utm_source=reddit.com) 
