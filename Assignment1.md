@@ -31,4 +31,4 @@ Gig-workers vs Employees
     * Labor research experts
     * Individual workers
 5. Anything else important to know?
-  * [Lyft recently announced a new feature called "priority mode," while drivers call it "poverty mode." It offers drivers more rides in exchange for a 10% pay cut. One driver explained without priority mode on, she doesn't get any rides, the pay cut seems mandatory.](https://www.cnet.com/news/lyft-test-program-offers-drivers-more-rides-in-exchange-for-10-percent-pay-cut/?utm_source=reddit.com&utm_source=reddit.com) 
+    * [Lyft recently announced a new feature called "priority mode," while drivers call it "poverty mode." It offers drivers more rides in exchange for a 10% pay cut. One driver explained without priority mode on, she doesn't get any rides, the pay cut seems mandatory.](https://www.cnet.com/news/lyft-test-program-offers-drivers-more-rides-in-exchange-for-10-percent-pay-cut/?utm_source=reddit.com&utm_source=reddit.com) 
