@@ -15,4 +15,4 @@
   * DISTRICT
   * NEIGHBORHOODCLUSTER
 
-**NOTE:** The original dataset is too be too large for me to upload to Github. I can email the original file seperately. 
+**NOTE:** The original dataset is too be too large for me to upload to Github. I can email the original file seperately. The clean data is also fairly large, but I was able to upload it and it is downloadable as a .csv file.
